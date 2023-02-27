@@ -1,6 +1,6 @@
 ![MasterHead](./github-header-image_3.png)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif">
+<img align="right" alt="Coding" width="400" src="./cat.gif">
 
 
 - 🔭 I’m currently working on | [CODERS](https://github.com/nico-barbieri/CODERS)
