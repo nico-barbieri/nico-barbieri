@@ -1,19 +1,15 @@
-![MasterHead](https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif)
+![MasterHead](./github-header-image_3.png)
 
-<h1 align="center">Hi 👋🏼, I'm Nico👾</h1>
-
-
-<h3 align="center">CODE, <s>SLEEP</s>, REPEAT</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif">
 
 
-- 🔭 I’m currently working on [CODERS](https://github.com/nico-barbieri/CODERS)
+- 🔭 I’m currently working on | [CODERS](https://github.com/nico-barbieri/CODERS)
 
-- 🌱 I’m currently learning **Node.js, Unity**
+- 🌱 I’m currently learning | **Node.js, Unity**
 
-- 📫 How to reach me **nicobarbieri.m@gmail.com**
+- 📫 How to reach me | **nicobarbieri.m@gmail.com**
 
-- 💙 About me **I love arts, technology, and - most of all - the combination between the two.**
+- 💙 About me | **I love arts, technology, and - most of all - the combination between the two.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
