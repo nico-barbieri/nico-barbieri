@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="./cat.gif">
 
 
-- 🔭 I’m currently working on | [CODERS](https://github.com/nico-barbieri/CODERS)
+- 🔭 I’m currently working on | [DragboxJS](https://github.com/nico-barbieri/dragbox-js)
 
 - 🌱 I’m currently learning | **Node.js, Unity**
 
