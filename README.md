@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="./cat.gif">
 
 
-- 🔭 I’m currently working on | [DragboxJS](https://github.com/nico-barbieri/dragbox-js) • [EasyConverter](https://github.com/nico-barbieri/easy-converter)
+- 🔭 I’m currently working on | [QuickCTX](https://github.com/nico-barbieri/QuickCTX)
 
-- 🌱 I’m currently learning | **C#, Unity**
+- 🌱 I’m currently learning | **C#, Python**
 
 - 📫 How to reach me | **nicobarbieri.m@gmail.com**
 
