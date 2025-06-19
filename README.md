@@ -1,4 +1,4 @@
-![MasterHead](/images/Banner%20nico-fi%20no-text%20long.jpg)
+![MasterHead](/images/banner2_animated.gif)
 
 # Hi! I'm blue :)
 
